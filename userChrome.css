@@ -1,0 +1,46 @@
+#context-navigation {
+display:none !important;
+}
+
+#context-savepage {
+display: none !important;
+}
+
+#context-openlink {
+display:none !important;
+}
+
+#context-openlinkprivate {
+display:none !important;
+}
+
+#context-bookmarklink {
+display:none !important;
+}
+
+#context-viewbgimage, #context-sep-viewbgimage {
+display:none !important;
+}
+
+
+#context-setDesktopBackground {
+display:none !important;
+}
+
+#context-sendimage {
+display:none !important;
+}
+
+#context-inspect-a11y { 
+  display: none !important; 
+}
+
+/* Send Page to Device + top separator */
+#context-sendpagetodevice, #context-sep-sendpagetodevice, #context-sendlinktodevice, #context-sep-sendlinktodevice { 
+  display: none !important; 
+}
+
+/* Save Page to Pocket */
+#context-pocket, #context-savelinktopocket { 
+  display: none !important; 
+}
