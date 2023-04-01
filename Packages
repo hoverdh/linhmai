@@ -1,0 +1,483 @@
+
+Package: com.ichitaso.undecimus
+Section: Applications
+Maintainer: ichitaso
+Architecture: iphoneos-arm
+Version: 6.2.0
+Depends: firmware (>=14.0), firmware (<<15.0)
+Filename: ./debs/com.ichitaso.undecimus_6.2.0_iphoneos-arm.deb
+Size: 53732092
+MD5sum: 64fa13bfda00a065184dae0f6fcc26b2
+SHA1: bf9e3b9469edc24a41814ee20464fc4c9b890c19
+SHA256: a9378d9c2107d8eed6918ffebfe05309d8ef047bb9c1591f58290591c7375350
+SHA512: 803e118997af468a3ae23597d55a0b58776b30512322221613517ff4250af7bf4bd4ab10f966764eb03a54ec4b96533241bfeacbd67a978316e7fa2832fa92b8
+Description: Works even after reboot due to unc0ver re-signing by Permasigner (iOS 14.0 - 14.8)
+Name: unc0ver
+Author: unc0ver
+
+Package: com.samgisaninja.successionrestore
+Version: 1.4.16~b4
+Architecture: iphoneos-arm
+Maintainer: Samg_is_a_Ninja
+Depends: firmware-sbin, rsync
+Filename: ./debs/com.samgisaninja.successionrestore_1.4.16~b4_iphoneos-arm.deb
+Size: 1179304
+MD5sum: 9183c09c38e94fa35e0e09cf4bd3ea4f
+SHA1: 5e9635c6bbb04123cb46655a8005d54b262cb3e9
+SHA256: 1884e5bcb0e72987c0845b27a8faef76b0d325fa14bb9d2fa908993ac10b95b8
+Section: Utilities
+Description: Restore without updating via rootfilesystem DMG
+Author: Samg_is_a_Ninja
+Name: Succession
+
+Package: net.limneos.audiorecorderxs
+Version: 3.8-12
+Architecture: iphoneos-arm
+Maintainer: Elias Limneos <limneoselias@gmail.com>
+Installed-Size: 5068
+Depends: mobilesubstrate, preferenceloader, net.limneos.simpleactivationactions, firmware(>=12.0)
+Conflicts: net.limneos.callrecorder, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
+Replaces: net.limneos.audiorecorder,net.limneos.audiorecorderx
+Filename: ./debs/net.limneos.audiorecorderxs_3.8-12_iphoneos-arm.deb
+Size: 1344608
+MD5sum: 7f371b4cd786f74c5c33c8ab871a2d1f
+SHA1: 6682f6816bf60f104a33c7c97a82f6c470b88edf
+SHA256: 6457bfdcfdf0741919d01b683ee8cea5cd80c60c1c3f81cdff77fbd3eab27e72
+Section: Tweaks
+Description: Most Advanced iOS Call Recorder Ever!
+Author: Elias Limneos <limneoselias@gmail.com>
+Mainlibmd5: 2bd89895e747af47790b0eb2f6bac296
+Name: AudioRecorder XS
+
+Name: iPicMyContactsX
+Package: org.hacx.ipicmycontactsx
+Description: Show pictures in contacts list
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.9-7
+Filename: ./debs/org.hacx.ipicmycontactsx_0.9-7_iphoneos-arm.deb
+Size: 5726
+MD5sum: d158aaa904cf124368ee6054ba568db9
+SHA1: d33cc984e79f839f4dd7e1896988ffcd18fca0ff
+SHA256: 5586dfdb1349e7a5cb5b28c70e4e9eea8bfa8908fe85b2303472a0ece9e27229
+Author: hAcx
+Maintainer: hAcx
+Depends: firmware (>= 12.0), mobilesubstrate
+Installed-Size: 136
+
+Package: com.yourepo.cydiageek.ldrestartapp
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: CydiaGeek
+Filename: ./debs/com.yourepo.cydiageek.ldrestartapp_1.0.0.deb
+Size: 968604
+MD5sum: 974378d8036a14080e8632eb9f2f0f3e
+SHA1: 03055c2f063e4d77dc5e0cb9639b13f3b3bd813e
+SHA256: b566681b6e06d766caac0432dbfffe547d267488cf5e8a9af0b7fd6b2e159652
+Section: Utilities
+Description: An Application to simply ldrestart the Device!
+Author: CydiaGeek
+Name: ldrestartApp
+
+Package: com.chr1s.newtab
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Chr1s
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.chr1s.newtab_1.0.0_iphoneos-arm.deb
+Size: 4766
+MD5sum: d7e383416f4f641927c55548797b48b5
+SHA1: 2947361e9636b81729111dff1b04827e96f866aa
+SHA256: edf8f05ef2c83ca2c1b7964ffbedf2152780e4736d9ab45e97c22c8aa5c62ce8
+Section: Tweaks
+Description: Add newtab shortcut to safari toolbar
+Author: Chr1s
+Name: NewTab
+
+Package: com.smokin1337.3dsettingsinfo
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: smokin1337 <smokin1337@gmail.com>
+Installed-Size: 168
+Depends: mobilesubstrate
+Conflicts: com.smokin1337.3dbatteryhealth
+Filename: ./debs/com.smokin1337.3dsettingsinfo_1.0.1.deb
+Size: 7686
+MD5sum: 7cbe33d507b20bdf013ca50708024463
+SHA1: 8298d08034659f010aec99d4cd30194ab090bd74
+SHA256: adb83c0b8627232fff7a3bcf7872bdf8f88a933e7c5969f44c77ce205b8ba80a
+Section: Tweaks
+Description: Settings info at a glance!
+Author: smokin1337 <smokin1337@gmail.com>
+Name: 3DSettingsInfo
+
+Package: jp.r-plus.anykeytrackpad
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: r_plus
+Installed-Size: 144
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: ./debs/jp.r-plus.anykeytrackpad.deb
+Size: 6584
+MD5sum: 1fe02b45aa6c5e1391248ae68ea304ff
+SHA1: 364461d54c0e51b28bb2b4cdb934359820871bd1
+SHA256: c09b1f047e8a11d2e6d081d08601059f69380a8c01eca05f4d8f1b93f274c784
+Section: Tweaks
+Description: Enter trackpad mode by long press anykey
+Author: r_plus
+Name: AnyKeyTrackpad
+
+Package: net.angelxwind.appsyncunified
+Version: 100.0
+Architecture: iphoneos-arm
+Maintainer: Karen/あけみ <karen@akemi.ai>
+Installed-Size: 732
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 14.7.1)
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, com.ifucker.appsync, com.sexyphonetech.appsyncunified, appsyncunifiedofficial, org.digbick.asufixed, cn.mingmei.asu623517234615234813, science.xnu.substitute
+Replaces: us.hackulo.appsync50
+Provides: appsync
+Filename: ./debs/nodelete-net.angelxwind.appsyncunified.deb
+Size: 58314
+MD5sum: d9d27173cc6130c5d230851d80ffd618
+SHA1: 56d334823c0dd7ef192a489ea8ec332041ce108a
+SHA256: c560fa196cd3fb244edb72f2a3943c7ead59979c300f9ecdceefc713439a8454
+Section: Tweaks
+Description: Enables the ability to install unsigned/fakesigned iOS applications.
+Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
+Name: AppSync Unified
+
+Package: com.fouadraheb.appdata
+Version: 1.3.6
+Architecture: iphoneos-arm
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.fouadraheb.appdata_1.3.6_iphoneos-arm.deb
+Size: 270838
+MD5sum: baa467c88bf0e67e02f8f44129d5409e
+SHA1: 1379ec02add7ab1eba261c19e5146e10be85fc79
+SHA256: 2de71f49b41102bc02dc88a6a0694c4c018cc5aa903b6a9597aa4e228f5b43ef
+Section: Tweaks
+Description: View & Manage Applications Data from your Home Screen
+Author: Fouad Raheb <support@fouadraheb.com>
+Name: AppData
+
+Package: me.tomt000.copylog
+Name: CopyLog
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Description: Clipboard history manager for iOS!
+Maintainer: tomt000
+Author: tomt000
+Section: Tweaks
+Version: 1.5.5
+Installed-Size: 4404
+Size: 1558848
+MD5sum: fd069aa049ec1b0b77fc7dead5ea9c30
+SHA256: 1a3353ba941f19fc36e05fcb30637dd44558592001bc6104a2f704731cc62172
+Filename: ./debs/me.tomt000.copylog_1.5.5_iphoneos-arm.deb
+
+Package: me.tomt000.copylog
+Version: 1.5.3
+Architecture: iphoneos-arm
+Maintainer: TomT000
+Installed-Size: 4392
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/me.tomt000.copylog_1.5.3_iphoneos-arm.deb
+Size: 1534270
+MD5sum: ec391c2098f50ea12a35a40506c4646b
+SHA1: 6191227a6922230adc7a1812ecbd625346c6a00b
+SHA256: 9a378e32205fa960e00bc8911b0c1edc0f609d1282e79f87585458b2481ca99f
+Section: Tweaks
+Description: Clipboard history manager for iOS!
+Author: TomT000
+Name: CopyLog
+
+Package: cydia.com.ipc.crackerxi
+Version: 1.1.16
+Architecture: iphoneos-arm
+Maintainer: c0pyn1nja
+Depends: firmware (>= 11.0)
+Filename: ./debs/crackerxi_1.1.16.deb
+Size: 9960924
+MD5sum: 7363c9289b0041ba3bc8df156b751a9c
+Section: System
+Description: Decrypts iOS Apps
+Name: CrackerXI+
+
+Package: com.ps.cconandoff
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
+Conflicts: com.jakeashacks.realcc
+Filename: ./debs/com.ps.cconandoff_1.0.0_iphoneos-arm.deb
+Size: 4748
+MD5sum: e99027cfc4e8fd2a005e8bd0c399e6a9
+SHA1: 294e673892aae38c6d17eb202eb6b7552ddb5f15
+SHA256: c4a174e0bec525e50feb92c1849b2a372c125a1573f43709afe9f4fd6a518fa0
+Section: Tweaks
+Description: Toggle Wi-Fi and Bluetooth On/Off from Control Center (iOS 11+)
+Author: PoomSmart
+Name: CC On & Off
+
+Package: com.ginsu.enablebatterypercent
+Version: 2.1.2
+Architecture: iphoneos-arm
+Maintainer: Ginsu <njl02@outlook.com>
+Filename: ./debs/com.ginsu.enablebatterypercent.deb
+Size: 723464
+MD5sum: de0b3a824e6f691606d8e6dad1d79698
+SHA1: e00037787dfbc88dbe3874313c5b5697cca3fdbf
+SHA256: ba60670e1644e933236eb3ceffaad1aaf6ce0f98353702f95f880be3f6872dd0
+Section: Tweaks
+Homepage: https://ginsu.dev
+Description: Shows the battery % in the status bar.
+Author: Ginsu <njl02@outlook.com>
+Name: EnableBatteryPercent
+
+Package: com.gilshahar7.exacttime
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: gilshahar7
+Installed-Size: 1160
+Depends: mobilesubstrate
+Conflicts: com.gilshahar7.exacttimemail, com.gilshahar7.exacttimephone, com.gilshahar7.exacttimemessages
+Filename: ./debs/com.gilshahar7.exacttime_2.0.deb
+Size: 59614
+MD5sum: 6db03f564b816333bc69858a80261382
+SHA1: 9604ef8bca0cc4bfd5238462fc1691770d29256d
+SHA256: cb767d6c8e5f06316d24b3161a8e055f97f01ad54d7ada3ee0145556d56c1e30
+Section: Tweaks
+Description: Shows the exact time of notifications, messages, calls and emails
+Author: gilshahar7
+Name: ExactTime
+
+Package: com.julioverne.ext3nder-installer
+Version: 022b
+Architecture: iphoneos-arm
+Maintainer: Julio
+Pre-Depends: ldid, unzip, coreutils, zip, sed
+Depends: mobilesubstrate
+Conflicts: com.julioverne.ext3nder
+Filename: ./debs/com.julioverne.ext3nder-installer_022b.deb
+Size: 1947692
+MD5sum: c125341ea7283265364d6755d696bc5b
+SHA1: cc947c68cf9bb0f73a672b346096edf85c26f31e
+SHA256: 176948a72235dad6d63cdb9183a2640c43eee7e9a9b63edd7a92dfb3b6e8738f
+Section: Utilities
+Description: Cydia Extender Installer With Extra Features
+Author: julioverne
+Name: Ext3nder Installer
+
+Package: com.ginsu.kbpro
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Ginsu
+Installed-Size: 1100
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.alderis
+Filename: ./debs/com.ginsu.kbpro_1.0.1_iphoneos-arm.deb
+Size: 692000
+MD5sum: 1606b319de62fa8912d115e1f4c6ba45
+SHA1: 44cf617ccc54272af50d4f2b0c58c214211b8ea5
+SHA256: d06b08cf4a023d8dd781d03c2c342f9555f74a0cf6ac883c3376f088293d8e0b
+Section: Tweaks
+Description: Quickly select, copy and paste text.
+Author: Ginsu
+Name: KBPro
+
+Package: com.imkpatil.letmeknow
+Version: 1.4.2
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 336
+Depends: mobilesubstrate
+Filename: ./debs/com.imkpatil.letmeknow_1.4.2.deb
+Size: 25420
+MD5sum: 497873403a9cbcb63ceb0d1698db64b3
+SHA1: 589d270b5a2dafacf2398190203dd68bcdf2b5a5
+SHA256: b887601a2dfc194390cdaf768b8594658473fc2fc12ca5f1689b74e058448f40
+Section: Tweaks
+Description: This tweak will let you know exactly when the call connects/disconnects so that you don't have to keep holding!
+Author: P2KDev <p2kdev@gmail.com>
+Name: LetMeKnow
+
+Package: com.antonym.okreplay
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Antony .M
+Installed-Size: 148
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3)
+Filename: ./debs/com.antonym.okreplay.deb
+Size: 10664
+MD5sum: f69c3e0d32074741dc078cf7edd785d9
+SHA1: be11465ccfabd69f000cc7b7cb74e43a8b5ccb07
+SHA256: d942683ac26ebd63206b84ae8633eb41c6472d0ca4a9230674e2d2b5f0ecbf80
+Section: Tweaks
+Description: Automatically replay a video in the Photo app
+Author: Antony .M
+Name: OkReplay
+
+Package: net.cadoth.noinappsafari
+Version: 0.1.2
+Architecture: iphoneos-arm
+Maintainer: nyuszika7h <nyuszika7h@gmail.com>
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: in.net.mario.tweak.openurlprompt
+Filename: ./debs/net.cadoth.noinappsafari_0.1.2_iphoneos-arm.deb
+Size: 4804
+MD5sum: a5147d3fa67b3ff2b56eb67f3ccdb0ef
+SHA1: 86499f35ff66f241d93c23161ac239164a18de0c
+SHA256: cef313a94106952eb1d1149fdb3f5db482ad81c72185a2acb41638d16a82a527
+Section: Tweaks
+Description: Disable in-app browsers globally
+Author: nyuszika7h <nyuszika7h@gmail.com>
+Name: NoInAppSafari
+
+Package: com.udevs.nojunkquickactions
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: udevs
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.udevs.nojunkquickactions_1.0.1_iphoneos-arm.deb
+Size: 4006
+MD5sum: d042b432f4729cf8deb02888d6308809
+SHA1: f84f14ffaf5296bffce227b1c5ea13b48970df13
+SHA256: 60961d7827eda97aa02c65190ddb9cb137fb13e488bd8e81fe9b6859fbab9ff9
+Section: Tweaks
+Description: Sanitize homescreen haptic/force touch menu
+Author: udevs
+Name: NoJunkQuickActions
+
+Package: com.sugi.noshuttersound++
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: sugi
+Installed-Size: 56
+Filename: ./debs/com.sugi.noshuttersound++_0.0.1-1+debug.deb
+Size: 1868
+MD5sum: b85ef455d680f8d963327be36446d568
+SHA1: d30386c90f5e1d68be321fe884a73d19a75fe04b
+SHA256: 3b13dc22b0315d12f060d0f74397355bf3e1ae20f5e56583a2eb90f8ebd564a2
+Section: Tweaks
+Description: カメラのシャッター音と画面収録の音を削除します。隠し撮りはダメなんですよ。
+Author: sugi
+Name: No Shutter Sound++
+
+Package: com.hearse.slowmo
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Tweaks
+Maintainer: Hearse
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
+Filename: ./debs/com.hearse.slowmo_1.1_iphoneos-arm.deb
+Size: 13862
+MD5sum: d0c0e0862055080c07b49591ca164406
+SHA1: 1a00c8cb1c723f38fb3c83ea1373d3c3ac7b0990
+SHA256: 7a8bd85733ef6c6b95e2acd3145454d977541c4679dea171a738726b217a78da
+SHA512: cae8e2726daf14331a5dec7aba9ddb0cb69bf57b95c79d085be5a9809c7c361c507f7954a6ae5184d2e5f645c2d86e3ab540128908d609ee6f409e464c1bb89c
+Description: Slow Motion functionality for the Photos App
+Name: SlowMo
+Author: Hearse
+
+Package: com.udevs.safaritabs14
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: udevs
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000), firmware(>=14.0), com.opa334.libundirect (>= 1.1.1)
+Filename: ./debs/com.udevs.safaritabs14_1.0.2_iphoneos-arm.deb
+Size: 3362
+MD5sum: 56f1e5c0b339495daa42d2b9a915fe35
+SHA1: 6cd561809a5125b0b2515f4ec6ee207638bb81e8
+SHA256: 33157111f90993fd420442b8494d5c15f6cada4b3acadb1dacac4ec65bccf316
+Section: Tweaks
+Description: Safari tabs for iPhone on iOS 14.x
+Author: udevs
+Name: SafariTabs14
+
+Name: Snapper 2
+Package: com.jontelang.snapper2.packix
+Description: Pin screenshots on the screen.
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 2.5.12
+Filename: ./debs/com.jontelang.snapper2.packix_2.5.12_iphoneos-arm.deb
+Size: 423826
+MD5sum: 28f274fe9e0b36abeabc1ce2bd95bf5f
+SHA1: 2f6c392ab15aeff0b222190c44de8eddfa6ef836
+SHA256: e6cc49db98cf749b75cf2f8a759bfb80a7601dd62351d993ce8a4e8bbd5cc807
+Author: Jonathan Winger-lang
+Maintainer: Jonathan Winger-lang
+Depends: mobilesubstrate, firmware(>=12.1)
+Conflicts: com.jontelang.snapper, com.jontelang.snapper2
+Installed-Size: 1840
+
+Package: com.p2kdev.waqt
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 372
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.p2kdev.waqt_1.1.deb
+Size: 29934
+MD5sum: c58e9428c6c2cc912883a5756923ce64
+SHA1: 308a1bded3e265ea4b50fb1ccbf3badd72ab7180
+SHA256: e05dcfc2af9748573ad711239c4a42ca3c95fd907723372a75edd2c5f5dbbf89
+Section: Tweaks
+Description: Know more than just the current time!
+Author: P2KDev <p2kdev@gmail.com>
+Name: Waqt
+
+Package: com.highrez.wificarrier
+Version: 1.0.4
+Architecture: iphoneos-arm
+Maintainer: Phil <phil@highrez.co.uk>
+Installed-Size: 396
+Depends: mobilesubstrate
+Filename: ./debs/com.highrez.wificarrier_1.0.4_iphoneos-arm.deb
+Size: 32706
+MD5Sum: 603927200c8bd9cd0df860d4fe23be47
+SHA1: 06587771051caea9e6f0fd01d5315962917f5a8f
+Section: Tweaks
+Description: An Enhanced version of NoisyFlake WiFiCarrier for IOS 13. Supports additions for WiFi Calling
+Author: Phil, NoisyFlake
+Name: WiFiCarrier+
+
+Package: com.twickd.sarahh12099.youtube-reborn
+Version: 1.0.6.0
+Architecture: iphoneos-arm
+Maintainer: SarahH12099 <sarahh12099@gmail.com>
+Installed-Size: 384
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 12.0)
+Conflicts: com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, com.yourepo.ikghd.youtubekiller, com.yourepo.ikghd.youtubekillers, com.sinfool.youtopia, com.google.ios.ytadblock
+Replaces: net.sarahh12099.youtubereborn
+Filename: ./debs/com.twickd.sarahh12099.youtube-reborn_1.0.6.0.deb
+Size: 34808
+MD5sum: b187e919a0b1333ee6e92a82139ad146
+SHA1: 53e4e571aa2ae765614c2db65716edfe81ff0a82
+SHA256: 37fd3bc7f815ee410c5ed2c6940b646c39acb5f853bd454049b6f9f537d3570a
+Section: Tweaks
+Description: YouTube Customizer
+Author: SarahH12099 <sarahh12099@gmail.com>
+Name: YouTube Reborn
+
+Package: com.haoict.zalonoads
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Hao Nguyen
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.haoict.zalonoads_0.0.1.deb
+Size: 3790
+MD5sum: febe18ccf9cbdcd4b1bb7d6d64153e79
+SHA1: c563f111276fe4079bbeb6f589ee7fd53d3665aa
+SHA256: 80c3eb72fae9902488482e001d01dabf6ea7dc54f2d6bf873fd3270d194074b8
+Section: Tweaks
+Description: Hide "Suggested" post for Zalo app
+Author: Hao Nguyen
+Name: Zalo No Ads Beta
