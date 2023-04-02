@@ -13,25 +13,6 @@ Description: Restore without updating via rootfilesystem DMG
 Author: Samg_is_a_Ninja
 Name: Succession
 
-Package: net.limneos.audiorecorderxs
-Version: 5.0-17
-Architecture: iphoneos-arm
-Maintainer: Elias Limneos <limneoselias@gmail.com>
-Installed-Size: 5960
-Depends: mobilesubstrate, preferenceloader, net.limneos.simpleactivationactions, firmware(>=12.0)
-Conflicts: net.limneos.callrecorder, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
-Replaces: net.limneos.audiorecorder,net.limneos.audiorecorderx
-Filename: ./debs/net.limneos.audiorecorderxs_5.0-17_iphoneos-arm.deb
-Size: 5887504
-MD5sum: 5277161f1c3fa945f84a32952d523d76
-SHA1: 856c07c8dc83b2b4aa3f011806ac89499ed340c6
-SHA256: 278d7ace349fd02d18f9ab1e3edd878be7c1fb13b7bbbfc27b16a0ec17dd1ec1
-Section: Tweaks
-Description: Most Advanced iOS Call Recorder Ever!
-Author: Elias Limneos <limneoselias@gmail.com>
-Mainlibmd5: 2bd89895e747af47790b0eb2f6bac296
-Name: AudioRecorder XS (iOS 12 to 16)
-
 Name: iPicMyContactsX
 Package: org.hacx.ipicmycontactsx
 Description: Show pictures in contacts list
