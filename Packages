@@ -149,7 +149,7 @@ Maintainer: PoomSmart
 Installed-Size: 152
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
 Conflicts: com.jakeashacks.realcc
-Filename: ./debs/springboard/com.ps.cconandoff_1.1.0_iphoneos-arm64.deb
+Filename: ./debs/com.ps.cconandoff_1.1.0_iphoneos-arm64.deb
 Size: 5500
 MD5sum: b1d5be9fa2742fa0c572899a54900d56
 SHA1: 1651167dfa33a7bf9818307ffad4b0befa239aee
