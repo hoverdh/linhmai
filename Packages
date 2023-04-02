@@ -140,20 +140,6 @@ Description: Toggle Wi-Fi and Bluetooth On/Off from Control Center (iOS 11+).
 Author: PoomSmart
 Name: CC On & Off
 
-Package: com.ginsu.enablebatterypercent
-Version: 2.1.2
-Architecture: iphoneos-arm
-Maintainer: Ginsu <njl02@outlook.com>
-Filename: ./debs/com.ginsu.enablebatterypercent.deb
-Size: 723464
-MD5sum: de0b3a824e6f691606d8e6dad1d79698
-SHA1: e00037787dfbc88dbe3874313c5b5697cca3fdbf
-SHA256: ba60670e1644e933236eb3ceffaad1aaf6ce0f98353702f95f880be3f6872dd0
-Section: Tweaks
-Description: Shows the battery % in the status bar.
-Author: Ginsu <njl02@outlook.com>
-Name: EnableBatteryPercent
-
 Package: com.gilshahar7.exacttime
 Name: ExactTime
 Depends: mobilesubstrate
@@ -252,22 +238,6 @@ Maintainer: Jonathan Winger-lang
 Depends: mobilesubstrate, firmware(>=12.1)
 Conflicts: com.jontelang.snapper, com.jontelang.snapper2
 Installed-Size: 1840
-
-Package: com.p2kdev.waqt
-Version: 1.1
-Architecture: iphoneos-arm
-Maintainer: P2KDev <p2kdev@gmail.com>
-Installed-Size: 372
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/com.p2kdev.waqt_1.1.deb
-Size: 29934
-MD5sum: c58e9428c6c2cc912883a5756923ce64
-SHA1: 308a1bded3e265ea4b50fb1ccbf3badd72ab7180
-SHA256: e05dcfc2af9748573ad711239c4a42ca3c95fd907723372a75edd2c5f5dbbf89
-Section: Tweaks
-Description: Know more than just the current time!
-Author: P2KDev <p2kdev@gmail.com>
-Name: Waqt
 
 Package: com.twickd.sarahh12099.youtube-reborn
 Version: 1.0.6.0
