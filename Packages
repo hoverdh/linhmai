@@ -29,7 +29,6 @@ Maintainer: hAcx
 Depends: firmware (>= 12.0), mobilesubstrate
 Installed-Size: 136
 
-
 Package: jp.r-plus.anykeytrackpad
 Version: 1.0
 Architecture: iphoneos-arm
