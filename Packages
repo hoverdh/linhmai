@@ -14,23 +14,23 @@ Author: Samg_is_a_Ninja
 Name: Succession
 
 Package: net.limneos.audiorecorderxs
-Version: 3.8-12
+Version: 5.0-17
 Architecture: iphoneos-arm
 Maintainer: Elias Limneos <limneoselias@gmail.com>
-Installed-Size: 5068
+Installed-Size: 5960
 Depends: mobilesubstrate, preferenceloader, net.limneos.simpleactivationactions, firmware(>=12.0)
 Conflicts: net.limneos.callrecorder, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
 Replaces: net.limneos.audiorecorder,net.limneos.audiorecorderx
-Filename: ./debs/net.limneos.audiorecorderxs_3.8-12_iphoneos-arm.deb
-Size: 1344608
-MD5sum: 7f371b4cd786f74c5c33c8ab871a2d1f
-SHA1: 6682f6816bf60f104a33c7c97a82f6c470b88edf
-SHA256: 6457bfdcfdf0741919d01b683ee8cea5cd80c60c1c3f81cdff77fbd3eab27e72
+Filename: ./debs/net.limneos.audiorecorderxs_5.0-17_iphoneos-arm.deb
+Size: 5887504
+MD5sum: 5277161f1c3fa945f84a32952d523d76
+SHA1: 856c07c8dc83b2b4aa3f011806ac89499ed340c6
+SHA256: 278d7ace349fd02d18f9ab1e3edd878be7c1fb13b7bbbfc27b16a0ec17dd1ec1
 Section: Tweaks
 Description: Most Advanced iOS Call Recorder Ever!
 Author: Elias Limneos <limneoselias@gmail.com>
 Mainlibmd5: 2bd89895e747af47790b0eb2f6bac296
-Name: AudioRecorder XS
+Name: AudioRecorder XS (iOS 12 to 16)
 
 Name: iPicMyContactsX
 Package: org.hacx.ipicmycontactsx
@@ -65,20 +65,20 @@ Description: Enter trackpad mode by long press anykey
 Author: r_plus
 Name: AnyKeyTrackpad
 
-Package: net.angelxwind.appsyncunified
-Version: 100.0
+Package: ai.akemi.appsyncunified
+Version: 110.0
 Architecture: iphoneos-arm
 Maintainer: Karen/あけみ <karen@akemi.ai>
-Installed-Size: 732
-Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 14.7.1)
-Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, com.ifucker.appsync, com.sexyphonetech.appsyncunified, appsyncunifiedofficial, org.digbick.asufixed, cn.mingmei.asu623517234615234813, science.xnu.substitute
-Replaces: us.hackulo.appsync50
-Provides: appsync
-Filename: ./debs/nodelete-net.angelxwind.appsyncunified.deb
-Size: 58314
-MD5sum: d9d27173cc6130c5d230851d80ffd618
-SHA1: 56d334823c0dd7ef192a489ea8ec332041ce108a
-SHA256: c560fa196cd3fb244edb72f2a3943c7ead59979c300f9ecdceefc713439a8454
+Installed-Size: 700
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 16.3.1)
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, com.ifucker.appsync, com.sexyphonetech.appsyncunified, appsyncunifiedofficial, org.digbick.asufixed, cn.mingmei.asu623517234615234813, technology.goated.appsync, technology.goated.appsyncunified, vaginalfisting.appsynctool, science.xnu.substitute
+Replaces: us.hackulo.appsync50, net.angelxwind.appsyncunified
+Provides: appsync, net.angelxwind.appsyncunified
+Filename: ./debs/nodelete-ai.akemi.appsyncunified.deb
+Size: 58440
+MD5sum: 26f898f0b80f3bd842527aa9a9859bb1
+SHA1: f0392e1c1992789ac92c17dc7db3718fca6df899
+SHA256: fa97d20ecaab914c7d07fc17ff2f31c15d34b33a5eebc158cb2c83e8a7ec2abc
 Section: Tweaks
 Description: Enables the ability to install unsigned/fakesigned iOS applications.
 Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
@@ -143,19 +143,19 @@ Description: Decrypts iOS Apps
 Name: CrackerXI+
 
 Package: com.ps.cconandoff
-Version: 1.0.0
-Architecture: iphoneos-arm
+Version: 1.1.0
+Architecture: iphoneos-arm64
 Maintainer: PoomSmart
-Installed-Size: 136
+Installed-Size: 152
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
 Conflicts: com.jakeashacks.realcc
-Filename: ./debs/com.ps.cconandoff_1.0.0_iphoneos-arm.deb
-Size: 4748
-MD5sum: e99027cfc4e8fd2a005e8bd0c399e6a9
-SHA1: 294e673892aae38c6d17eb202eb6b7552ddb5f15
-SHA256: c4a174e0bec525e50feb92c1849b2a372c125a1573f43709afe9f4fd6a518fa0
+Filename: ./debs/springboard/com.ps.cconandoff_1.1.0_iphoneos-arm64.deb
+Size: 5500
+MD5sum: b1d5be9fa2742fa0c572899a54900d56
+SHA1: 1651167dfa33a7bf9818307ffad4b0befa239aee
+SHA256: 9bdcc2d78cfb71045dc3b24ab4079a20e3c5897f990377f6e657edf785ab26c2
 Section: Tweaks
-Description: Toggle Wi-Fi and Bluetooth On/Off from Control Center (iOS 11+)
+Description: Toggle Wi-Fi and Bluetooth On/Off from Control Center (iOS 11+).
 Author: PoomSmart
 Name: CC On & Off
 
@@ -169,42 +169,41 @@ MD5sum: de0b3a824e6f691606d8e6dad1d79698
 SHA1: e00037787dfbc88dbe3874313c5b5697cca3fdbf
 SHA256: ba60670e1644e933236eb3ceffaad1aaf6ce0f98353702f95f880be3f6872dd0
 Section: Tweaks
-Homepage: https://ginsu.dev
 Description: Shows the battery % in the status bar.
 Author: Ginsu <njl02@outlook.com>
 Name: EnableBatteryPercent
 
 Package: com.gilshahar7.exacttime
-Version: 2.0
-Architecture: iphoneos-arm
-Maintainer: gilshahar7
-Installed-Size: 1160
+Name: ExactTime
 Depends: mobilesubstrate
 Conflicts: com.gilshahar7.exacttimemail, com.gilshahar7.exacttimephone, com.gilshahar7.exacttimemessages
-Filename: ./debs/com.gilshahar7.exacttime_2.0.deb
-Size: 59614
-MD5sum: 6db03f564b816333bc69858a80261382
-SHA1: 9604ef8bca0cc4bfd5238462fc1691770d29256d
-SHA256: cb767d6c8e5f06316d24b3161a8e055f97f01ad54d7ada3ee0145556d56c1e30
+Architecture: iphoneos-arm
+Description: Shows the exact time of notifications, messages, calls and emails.
+Maintainer: gilshahar7 <gilshahardex99@gmail.com>
+Author: gilshahar7 <gilshahardex99@gmail.com>
 Section: Tweaks
-Description: Shows the exact time of notifications, messages, calls and emails
-Author: gilshahar7
-Name: ExactTime
+Version: 2.0.1
+Installed-Size: 1160
+Size: 59822
+MD5sum: 0ad9b44b59c319f796aea54a6352b3f4
+SHA256: 77647d80034931f65ca51346e632715ada60f321331c20737746080829060fb4
+Filename: ./debs/com.gilshahar7.exacttime_2.0.1_iphoneos-arm.deb
 
 Package: com.ginsu.kbpro
-Version: 1.0.1
+Version: 2.1.1
 Architecture: iphoneos-arm
-Maintainer: Ginsu
-Installed-Size: 1100
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.alderis
-Filename: ./debs/com.ginsu.kbpro_1.0.1_iphoneos-arm.deb
-Size: 692000
-MD5sum: 1606b319de62fa8912d115e1f4c6ba45
-SHA1: 44cf617ccc54272af50d4f2b0c58c214211b8ea5
-SHA256: d06b08cf4a023d8dd781d03c2c342f9555f74a0cf6ac883c3376f088293d8e0b
+Maintainer: Ginsu <njl02@outlook.com>
+Depends: firmware (>=14.0), dev.theos.orion14, com.ginsu.libgscommon, ws.hbang.alderis (>= 1.1)
+Filename: ./debs/com.ginsu.kbpro.deb
+Size: 211034
+MD5sum: 7b097d57d62334fc74f29f01465a74a0
+SHA1: f2c1700c676d5c8d1027fb3e4d6bf9e973569f68
+SHA256: 8b5a0cfa8d9cf03532480308d1e47356dc91ae533160541010124a2ae04c4bce
 Section: Tweaks
-Description: Quickly select, copy and paste text.
-Author: Ginsu
+Homepage: https://ginsu.dev
+Description: Select, copy, paste.
+Tag: role::enduser
+Author: Ginsu <njl02@outlook.com>
 Name: KBPro
 
 Package: com.imkpatil.letmeknow
@@ -255,22 +254,6 @@ Section: Tweaks
 Description: Sanitize homescreen haptic/force touch menu
 Author: udevs
 Name: NoJunkQuickActions
-
-Package: com.udevs.safaritabs14
-Version: 1.0.2
-Architecture: iphoneos-arm
-Maintainer: udevs
-Installed-Size: 136
-Depends: mobilesubstrate (>= 0.9.5000), firmware(>=14.0), com.opa334.libundirect (>= 1.1.1)
-Filename: ./debs/com.udevs.safaritabs14_1.0.2_iphoneos-arm.deb
-Size: 3362
-MD5sum: 56f1e5c0b339495daa42d2b9a915fe35
-SHA1: 6cd561809a5125b0b2515f4ec6ee207638bb81e8
-SHA256: 33157111f90993fd420442b8494d5c15f6cada4b3acadb1dacac4ec65bccf316
-Section: Tweaks
-Description: Safari tabs for iPhone on iOS 14.x
-Author: udevs
-Name: SafariTabs14
 
 Name: Snapper 2
 Package: com.jontelang.snapper2.packix
