@@ -65,20 +65,6 @@ Maintainer: hAcx
 Depends: firmware (>= 12.0), mobilesubstrate
 Installed-Size: 136
 
-Package: com.yourepo.cydiageek.ldrestartapp
-Version: 1.0.0
-Architecture: iphoneos-arm
-Maintainer: CydiaGeek
-Filename: ./debs/com.yourepo.cydiageek.ldrestartapp_1.0.0.deb
-Size: 968604
-MD5sum: 974378d8036a14080e8632eb9f2f0f3e
-SHA1: 03055c2f063e4d77dc5e0cb9639b13f3b3bd813e
-SHA256: b566681b6e06d766caac0432dbfffe547d267488cf5e8a9af0b7fd6b2e159652
-Section: Utilities
-Description: An Application to simply ldrestart the Device!
-Author: CydiaGeek
-Name: ldrestartApp
-
 Package: com.chr1s.newtab
 Version: 1.0.0
 Architecture: iphoneos-arm
@@ -94,23 +80,6 @@ Section: Tweaks
 Description: Add newtab shortcut to safari toolbar
 Author: Chr1s
 Name: NewTab
-
-Package: com.smokin1337.3dsettingsinfo
-Version: 1.0.1
-Architecture: iphoneos-arm
-Maintainer: smokin1337 <smokin1337@gmail.com>
-Installed-Size: 168
-Depends: mobilesubstrate
-Conflicts: com.smokin1337.3dbatteryhealth
-Filename: ./debs/com.smokin1337.3dsettingsinfo_1.0.1.deb
-Size: 7686
-MD5sum: 7cbe33d507b20bdf013ca50708024463
-SHA1: 8298d08034659f010aec99d4cd30194ab090bd74
-SHA256: adb83c0b8627232fff7a3bcf7872bdf8f88a933e7c5969f44c77ce205b8ba80a
-Section: Tweaks
-Description: Settings info at a glance!
-Author: smokin1337 <smokin1337@gmail.com>
-Name: 3DSettingsInfo
 
 Package: jp.r-plus.anykeytrackpad
 Version: 1.0
@@ -254,23 +223,6 @@ Description: Shows the exact time of notifications, messages, calls and emails
 Author: gilshahar7
 Name: ExactTime
 
-Package: com.julioverne.ext3nder-installer
-Version: 022b
-Architecture: iphoneos-arm
-Maintainer: Julio
-Pre-Depends: ldid, unzip, coreutils, zip, sed
-Depends: mobilesubstrate
-Conflicts: com.julioverne.ext3nder
-Filename: ./debs/com.julioverne.ext3nder-installer_022b.deb
-Size: 1947692
-MD5sum: c125341ea7283265364d6755d696bc5b
-SHA1: cc947c68cf9bb0f73a672b346096edf85c26f31e
-SHA256: 176948a72235dad6d63cdb9183a2640c43eee7e9a9b63edd7a92dfb3b6e8738f
-Section: Utilities
-Description: Cydia Extender Installer With Extra Features
-Author: julioverne
-Name: Ext3nder Installer
-
 Package: com.ginsu.kbpro
 Version: 1.0.1
 Architecture: iphoneos-arm
@@ -302,22 +254,6 @@ Section: Tweaks
 Description: This tweak will let you know exactly when the call connects/disconnects so that you don't have to keep holding!
 Author: P2KDev <p2kdev@gmail.com>
 Name: LetMeKnow
-
-Package: com.antonym.okreplay
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Antony .M
-Installed-Size: 148
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3)
-Filename: ./debs/com.antonym.okreplay.deb
-Size: 10664
-MD5sum: f69c3e0d32074741dc078cf7edd785d9
-SHA1: be11465ccfabd69f000cc7b7cb74e43a8b5ccb07
-SHA256: d942683ac26ebd63206b84ae8633eb41c6472d0ca4a9230674e2d2b5f0ecbf80
-Section: Tweaks
-Description: Automatically replay a video in the Photo app
-Author: Antony .M
-Name: OkReplay
 
 Package: net.cadoth.noinappsafari
 Version: 0.1.2
@@ -351,38 +287,6 @@ Section: Tweaks
 Description: Sanitize homescreen haptic/force touch menu
 Author: udevs
 Name: NoJunkQuickActions
-
-Package: com.sugi.noshuttersound++
-Version: 0.0.1-1+debug
-Architecture: iphoneos-arm
-Maintainer: sugi
-Installed-Size: 56
-Filename: ./debs/com.sugi.noshuttersound++_0.0.1-1+debug.deb
-Size: 1868
-MD5sum: b85ef455d680f8d963327be36446d568
-SHA1: d30386c90f5e1d68be321fe884a73d19a75fe04b
-SHA256: 3b13dc22b0315d12f060d0f74397355bf3e1ae20f5e56583a2eb90f8ebd564a2
-Section: Tweaks
-Description: カメラのシャッター音と画面収録の音を削除します。隠し撮りはダメなんですよ。
-Author: sugi
-Name: No Shutter Sound++
-
-Package: com.hearse.slowmo
-Architecture: iphoneos-arm
-Version: 1.1
-Section: Tweaks
-Maintainer: Hearse
-Installed-Size: 204
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
-Filename: ./debs/com.hearse.slowmo_1.1_iphoneos-arm.deb
-Size: 13862
-MD5sum: d0c0e0862055080c07b49591ca164406
-SHA1: 1a00c8cb1c723f38fb3c83ea1373d3c3ac7b0990
-SHA256: 7a8bd85733ef6c6b95e2acd3145454d977541c4679dea171a738726b217a78da
-SHA512: cae8e2726daf14331a5dec7aba9ddb0cb69bf57b95c79d085be5a9809c7c361c507f7954a6ae5184d2e5f645c2d86e3ab540128908d609ee6f409e464c1bb89c
-Description: Slow Motion functionality for the Photos App
-Name: SlowMo
-Author: Hearse
 
 Package: com.udevs.safaritabs14
 Version: 1.0.2
@@ -432,21 +336,6 @@ Section: Tweaks
 Description: Know more than just the current time!
 Author: P2KDev <p2kdev@gmail.com>
 Name: Waqt
-
-Package: com.highrez.wificarrier
-Version: 1.0.4
-Architecture: iphoneos-arm
-Maintainer: Phil <phil@highrez.co.uk>
-Installed-Size: 396
-Depends: mobilesubstrate
-Filename: ./debs/com.highrez.wificarrier_1.0.4_iphoneos-arm.deb
-Size: 32706
-MD5Sum: 603927200c8bd9cd0df860d4fe23be47
-SHA1: 06587771051caea9e6f0fd01d5315962917f5a8f
-Section: Tweaks
-Description: An Enhanced version of NoisyFlake WiFiCarrier for IOS 13. Supports additions for WiFi Calling
-Author: Phil, NoisyFlake
-Name: WiFiCarrier+
 
 Package: com.twickd.sarahh12099.youtube-reborn
 Version: 1.0.6.0
