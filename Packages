@@ -1,20 +1,3 @@
-
-Package: com.ichitaso.undecimus
-Section: Applications
-Maintainer: ichitaso
-Architecture: iphoneos-arm
-Version: 6.2.0
-Depends: firmware (>=14.0), firmware (<<15.0)
-Filename: ./debs/com.ichitaso.undecimus_6.2.0_iphoneos-arm.deb
-Size: 53732092
-MD5sum: 64fa13bfda00a065184dae0f6fcc26b2
-SHA1: bf9e3b9469edc24a41814ee20464fc4c9b890c19
-SHA256: a9378d9c2107d8eed6918ffebfe05309d8ef047bb9c1591f58290591c7375350
-SHA512: 803e118997af468a3ae23597d55a0b58776b30512322221613517ff4250af7bf4bd4ab10f966764eb03a54ec4b96533241bfeacbd67a978316e7fa2832fa92b8
-Description: Works even after reboot due to unc0ver re-signing by Permasigner (iOS 14.0 - 14.8)
-Name: unc0ver
-Author: unc0ver
-
 Package: com.samgisaninja.successionrestore
 Version: 1.4.16~b4
 Architecture: iphoneos-arm
@@ -65,21 +48,6 @@ Maintainer: hAcx
 Depends: firmware (>= 12.0), mobilesubstrate
 Installed-Size: 136
 
-Package: com.chr1s.newtab
-Version: 1.0.0
-Architecture: iphoneos-arm
-Maintainer: Chr1s
-Installed-Size: 136
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.chr1s.newtab_1.0.0_iphoneos-arm.deb
-Size: 4766
-MD5sum: d7e383416f4f641927c55548797b48b5
-SHA1: 2947361e9636b81729111dff1b04827e96f866aa
-SHA256: edf8f05ef2c83ca2c1b7964ffbedf2152780e4736d9ab45e97c22c8aa5c62ce8
-Section: Tweaks
-Description: Add newtab shortcut to safari toolbar
-Author: Chr1s
-Name: NewTab
 
 Package: jp.r-plus.anykeytrackpad
 Version: 1.0
