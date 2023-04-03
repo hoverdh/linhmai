@@ -1,18 +1,3 @@
-Package: com.samgisaninja.successionrestore
-Version: 1.4.16~b4
-Architecture: iphoneos-arm
-Maintainer: Samg_is_a_Ninja
-Depends: firmware-sbin, rsync
-Filename: ./debs/com.samgisaninja.successionrestore_1.4.16~b4_iphoneos-arm.deb
-Size: 1179304
-MD5sum: 9183c09c38e94fa35e0e09cf4bd3ea4f
-SHA1: 5e9635c6bbb04123cb46655a8005d54b262cb3e9
-SHA256: 1884e5bcb0e72987c0845b27a8faef76b0d325fa14bb9d2fa908993ac10b95b8
-Section: Utilities
-Description: Restore without updating via rootfilesystem DMG
-Author: Samg_is_a_Ninja
-Name: Succession
-
 Name: iPicMyContactsX
 Package: org.hacx.ipicmycontactsx
 Description: Show pictures in contacts list
@@ -110,18 +95,6 @@ Description: Clipboard history manager for iOS!
 Author: TomT000
 Name: CopyLog
 
-Package: cydia.com.ipc.crackerxi
-Version: 1.1.16
-Architecture: iphoneos-arm
-Maintainer: c0pyn1nja
-Depends: firmware (>= 11.0)
-Filename: ./debs/crackerxi_1.1.16.deb
-Size: 9960924
-MD5sum: 7363c9289b0041ba3bc8df156b751a9c
-Section: System
-Description: Decrypts iOS Apps
-Name: CrackerXI+
-
 Package: com.gilshahar7.exacttime
 Name: ExactTime
 Depends: mobilesubstrate
@@ -170,23 +143,6 @@ Section: Tweaks
 Description: This tweak will let you know exactly when the call connects/disconnects so that you don't have to keep holding!
 Author: P2KDev <p2kdev@gmail.com>
 Name: LetMeKnow
-
-Package: net.cadoth.noinappsafari
-Version: 0.1.2
-Architecture: iphoneos-arm
-Maintainer: nyuszika7h <nyuszika7h@gmail.com>
-Installed-Size: 152
-Depends: mobilesubstrate (>= 0.9.5000)
-Conflicts: in.net.mario.tweak.openurlprompt
-Filename: ./debs/net.cadoth.noinappsafari_0.1.2_iphoneos-arm.deb
-Size: 4804
-MD5sum: a5147d3fa67b3ff2b56eb67f3ccdb0ef
-SHA1: 86499f35ff66f241d93c23161ac239164a18de0c
-SHA256: cef313a94106952eb1d1149fdb3f5db482ad81c72185a2acb41638d16a82a527
-Section: Tweaks
-Description: Disable in-app browsers globally
-Author: nyuszika7h <nyuszika7h@gmail.com>
-Name: NoInAppSafari
 
 Package: com.udevs.nojunkquickactions
 Version: 1.0.1
