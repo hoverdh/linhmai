@@ -1,3 +1,19 @@
+Package: com.imkpatil.callblocker
+Version: 1.1
+Priority: optional
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware(>= 11.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Filename: ./debs/callblocker_1.1.deb
+Size: 24412
+Installed-Size: 196
+MD5sum: 76fe67bce21054bd32a67673f43d2b8e
+SHA256: 416a95fdc09e03abecdb5c4aef4acf0226b3c75354964dd96d81ba74fdc713c4
+Name: CallBlocker
+Description: Block annoying Callers!
+Author: Kiran Patil <patilkiran08@gmail.com>
+
 Package: com.p2kdev.waqt
 Name: Waqt
 Version: 1.1
