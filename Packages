@@ -1,3 +1,19 @@
+Package: com.ic0nic0de.taptaplock
+Version: 1.5.3
+Priority: optional
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.16)
+Architecture: iphoneos-arm
+Filename: ./debs/taptaplock_1.5.3.deb
+Size: 34862
+Installed-Size: 459
+MD5sum: ff333852e6aa81c339c329bc9b7f4888
+SHA256: a8e95718f32f257344ae4860aed1a7bd2a0a6e1a47a6bee50e449e35853bee87
+Name: Tap Tap Lock
+Description: Tap on the homescreen to lock your device
+Author: Ic0nic0de <Ic0nic0de@gmail.com>
+
 Package: com.tweakios.easydialer14
 Version: 14.3.0-10
 Section: Tweaks
