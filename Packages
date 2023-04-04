@@ -1,3 +1,19 @@
+Package: com.p2kdev.waqt
+Name: Waqt
+Version: 1.1
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, preferenceloader
+Installed-Size: 372
+Author: P2KDev <p2kdev@gmail.com>
+Maintainer: P2KDev <p2kdev@gmail.com>
+Description: Know more than just the current time!
+Size: 29934
+MD5sum: c58e9428c6c2cc912883a5756923ce64
+SHA1: 308a1bded3e265ea4b50fb1ccbf3badd72ab7180
+SHA256: e05dcfc2af9748573ad711239c4a42ca3c95fd907723372a75edd2c5f5dbbf89
+Filename: ./debs/com.p2kdev.waqt_1.1.deb
+
 Package: com.ic0nic0de.taptaplock
 Version: 1.5.3
 Priority: optional
