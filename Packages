@@ -1,3 +1,18 @@
+
+Package: com.imkpatil.callblocker
+Filename: ./debs/com.imkpatil.callblocker_2.0.3_iphoneos-arm.deb
+Size: 51616 
+MD5sum: 5969fa8d11c78991b22ccc84241a2a2d
+SHA1: 34eb8286c62ae6739c26159db9fd2ae164787613
+SHA256: f5750a71bcaaea6fd18c8c52ee1d3c0d69f80538a0e838b0bf077b936628f9f4
+Name: CallBlocker
+Version: 2.0.3
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, preferenceloader
+Installed-Size: 512
+Description: Block annoying Callers!
+
 Package: com.gamegod.igg
 Version: 0.3.5
 Architecture: iphoneos-arm
