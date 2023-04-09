@@ -1,3 +1,20 @@
+Package: com.miro.damnduration
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 336
+Depends: firmware (>=13.0), mobilesubstrate, com.rpetrich.rocketbootstrap
+Filename: ./debs/com.miro.damnduration_1.0.3_iphoneos-arm.deb
+Size: 12180
+MD5sum: 06e1c4c846a96083612e119b5b47422e
+SHA1: 41457125d3e642805e760e47447142b463f02ae7
+SHA256: 4abb67a2a1d9a62b3bac5385dc1cea37b0b4716624855514a06fb6f4136c09c7
+Section: Tweaks
+Description: Shows ringing duration in the Phone app.
+Tag: purpose::extension, compatible_min::ios13, compatible_max::ios14
+Author: MiRO <tweaks_support@miro92.com>
+Name: DamnDuration
+
 Package: com.miro.doublerecents
 Version: 1.0.2
 Architecture: iphoneos-arm
