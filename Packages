@@ -1,36 +1,3 @@
-Package: com.miro.damnduration
-Version: 1.0.3
-Architecture: iphoneos-arm
-Maintainer: MiRO <tweaks_support@miro92.com>
-Installed-Size: 336
-Depends: firmware (>=13.0), mobilesubstrate, com.rpetrich.rocketbootstrap
-Filename: ./debs/com.miro.damnduration_1.0.3_iphoneos-arm.deb
-Size: 12180
-MD5sum: 06e1c4c846a96083612e119b5b47422e
-SHA1: 41457125d3e642805e760e47447142b463f02ae7
-SHA256: 4abb67a2a1d9a62b3bac5385dc1cea37b0b4716624855514a06fb6f4136c09c7
-Section: Tweaks
-Description: Shows ringing duration in the Phone app.
-Tag: purpose::extension, compatible_min::ios13, compatible_max::ios14
-Author: MiRO <tweaks_support@miro92.com>
-Name: DamnDuration
-
-Package: com.miro.doublerecents
-Version: 1.0.2
-Architecture: iphoneos-arm
-Maintainer: MiRO <tweaks_support@miro92.com>
-Installed-Size: 168
-Depends: firmware (>=13.0), mobilesubstrate
-Filename: ./debs/com.miro.doublerecents_1.0.2_iphoneos-arm.deb
-Size: 5434
-MD5sum: aa5997d2c4a870990400169869b841ef
-SHA1: 6e484b5f0fc54477c426e7ba5432cfe25086287b
-SHA256: 490f6e9feded1c2c94f5a761d579f1e8b1292a4a3ad6987df4cb215eadfe5a33
-Section: Tweaks
-Description: Increase recent calls from 100 to 200 in the "Recents" tab in the Phone app.
-Author: MiRO <tweaks_support@miro92.com>
-Name: DoubleRecents
-
 Package: com.imkpatil.callblocker
 Filename: ./debs/com.imkpatil.callblocker_2.0.3_iphoneos-arm.deb
 Size: 51616 
