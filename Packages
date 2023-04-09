@@ -1,3 +1,19 @@
+Package: com.miro.doublerecents
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 168
+Depends: firmware (>=13.0), mobilesubstrate
+Filename: ./debs/com.miro.doublerecents_1.0.2_iphoneos-arm.deb
+Size: 5434
+MD5sum: aa5997d2c4a870990400169869b841ef
+SHA1: 6e484b5f0fc54477c426e7ba5432cfe25086287b
+SHA256: 490f6e9feded1c2c94f5a761d579f1e8b1292a4a3ad6987df4cb215eadfe5a33
+Section: Tweaks
+Description: Increase recent calls from 100 to 200 in the "Recents" tab in the Phone app.
+Author: MiRO <tweaks_support@miro92.com>
+Name: DoubleRecents
+
 Package: com.gamegod.igg
 Version: 0.3.5
 Architecture: iphoneos-arm
