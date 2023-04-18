@@ -254,19 +254,3 @@ Section: Tweaks
 Description: YouTube Customizer
 Author: SarahH12099 <sarahh12099@gmail.com>
 Name: YouTube Reborn
-
-Package: com.haoict.zalonoads
-Version: 0.0.1
-Architecture: iphoneos-arm
-Maintainer: Hao Nguyen
-Installed-Size: 136
-Depends: mobilesubstrate
-Filename: ./debs/com.haoict.zalonoads_0.0.1.deb
-Size: 3790
-MD5sum: febe18ccf9cbdcd4b1bb7d6d64153e79
-SHA1: c563f111276fe4079bbeb6f589ee7fd53d3665aa
-SHA256: 80c3eb72fae9902488482e001d01dabf6ea7dc54f2d6bf873fd3270d194074b8
-Section: Tweaks
-Description: Hide "Suggested" post for Zalo app
-Author: Hao Nguyen
-Name: Zalo No Ads Beta
