@@ -1,3 +1,19 @@
+Package: com.haoict.lockscreenwithoutbutton
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Hao Nguyen
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.haoict.lockscreenwithoutbutton_0.0.1_iphoneos-arm.deb
+Size: 2984
+MD5sum: ff4c0de2d58138d46d885391dacb72e0
+SHA1: c5c17c16c5a7647e8102a50dec6f3cb1960a2281
+SHA256: cce428809ae45e2373211146a0d2ea5e639e33ec2d3781182b487bb46e66901a
+Section: Tweaks
+Description: Lock Screen without button, just double tap from Home
+Author: Hao Nguyen
+Name: Lock Screen Without Button
+
 Package: com.ps.cconandoff
 Version: 1.1.0
 Architecture: iphoneos-arm64
