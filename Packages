@@ -29,7 +29,6 @@ SHA256: 9bdcc2d78cfb71045dc3b24ab4079a20e3c5897f990377f6e657edf785ab26c2
 Section: Tweaks
 Description: Toggle Wi-Fi and Bluetooth On/Off from Control Center (iOS 11+).
 Author: PoomSmart
-Depiction: https://poomsmart.github.io/repo/depictions/cconoff.html
 Name: CC On & Off
 
 Package: com.imkpatil.callblocker
