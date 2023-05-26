@@ -7,9 +7,9 @@ Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
 Conflicts: com.jakeashacks.realcc
 Filename: ./debs/com.ps.cconandofff_1.1.0_iphoneos-arm64.deb
 Size: 5500
-MD5sum: b1d5be9fa2742fa0c572899a54900d56
-SHA1: 1651167dfa33a7bf9818307ffad4b0befa239aee
-SHA256: 9bdcc2d78cfb71045dc3b24ab4079a20e3c5897f990377f6e657edf785ab26c2
+MD5sum: bafd37508e244fdf0497417fadda5174
+SHA1: dab5b797cb092a841bd8797332afbef39cfb8806
+SHA256: 2a51ad59f14cdbbc7eaa8162db41b0bf222d235062c1ee519706b6fd534d84b9
 Section: Tweaks
 Description: Toggle Wi-Fi and Bluetooth On/Off from Control Center (iOS 11+).
 Author: PoomSmart
