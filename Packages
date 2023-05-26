@@ -1,18 +1,3 @@
-Package: com.ps.cconff
-Version: 1.1.0
-Architecture: iphoneos-arm64
-Installed-Size: 152
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
-Conflicts: com.jakeashacks.realcc
-Filename: ./debs/com.ps.cconff_1.1.0_iphoneos-arm64.deb
-Size: 5500
-MD5sum: bafd37508e244fdf0497417fadda5174
-SHA1: dab5b797cb092a841bd8797332afbef39cfb8806
-SHA256: 2a51ad59f14cdbbc7eaa8162db41b0bf222d235062c1ee519706b6fd534d84b9
-Section: Tweaks
-Description: Toggle Wi-Fi and Bluetooth On/Off from Control Center (iOS 11+).
-Name: CC OnFF
-
 Package: com.haoict.lockscreenwithoutbutton
 Version: 0.0.1
 Architecture: iphoneos-arm
