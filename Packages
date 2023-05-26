@@ -1,7 +1,6 @@
 Package: com.ps.cconff
 Version: 1.1.0
 Architecture: iphoneos-arm64
-Maintainer: PoomSmart
 Installed-Size: 152
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
 Conflicts: com.jakeashacks.realcc
