@@ -124,37 +124,6 @@ Description: View & Manage Applications Data from your Home Screen
 Author: Fouad Raheb <support@fouadraheb.com>
 Name: AppData
 
-Package: me.tomt000.copylog
-Name: CopyLog
-Depends: mobilesubstrate, preferenceloader
-Architecture: iphoneos-arm
-Description: Clipboard history manager for iOS!
-Maintainer: tomt000
-Author: tomt000
-Section: Tweaks
-Version: 1.5.5
-Installed-Size: 4404
-Size: 1558848
-MD5sum: fd069aa049ec1b0b77fc7dead5ea9c30
-SHA256: 1a3353ba941f19fc36e05fcb30637dd44558592001bc6104a2f704731cc62172
-Filename: ./debs/me.tomt000.copylog_1.5.5_iphoneos-arm.deb
-
-Package: me.tomt000.copylog
-Version: 1.5.3
-Architecture: iphoneos-arm
-Maintainer: TomT000
-Installed-Size: 4392
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/me.tomt000.copylog_1.5.3_iphoneos-arm.deb
-Size: 1534270
-MD5sum: ec391c2098f50ea12a35a40506c4646b
-SHA1: 6191227a6922230adc7a1812ecbd625346c6a00b
-SHA256: 9a378e32205fa960e00bc8911b0c1edc0f609d1282e79f87585458b2481ca99f
-Section: Tweaks
-Description: Clipboard history manager for iOS!
-Author: TomT000
-Name: CopyLog
-
 Package: com.gilshahar7.exacttime
 Name: ExactTime
 Depends: mobilesubstrate
@@ -219,23 +188,6 @@ Section: Tweaks
 Description: Sanitize homescreen haptic/force touch menu
 Author: udevs
 Name: NoJunkQuickActions
-
-Name: Snapper 2
-Package: com.jontelang.snapper2.packix
-Description: Pin screenshots on the screen.
-Architecture: iphoneos-arm
-Section: Tweaks
-Version: 2.5.12
-Filename: ./debs/com.jontelang.snapper2.packix_2.5.12_iphoneos-arm.deb
-Size: 423826
-MD5sum: 28f274fe9e0b36abeabc1ce2bd95bf5f
-SHA1: 2f6c392ab15aeff0b222190c44de8eddfa6ef836
-SHA256: e6cc49db98cf749b75cf2f8a759bfb80a7601dd62351d993ce8a4e8bbd5cc807
-Author: Jonathan Winger-lang
-Maintainer: Jonathan Winger-lang
-Depends: mobilesubstrate, firmware(>=12.1)
-Conflicts: com.jontelang.snapper, com.jontelang.snapper2
-Installed-Size: 1840
 
 Package: com.twickd.sarahh12099.youtube-reborn
 Version: 1.0.6.0
