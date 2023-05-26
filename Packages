@@ -1,19 +1,18 @@
-Package: com.ps.cconandofff
+Package: com.ps.cconff
 Version: 1.1.0
 Architecture: iphoneos-arm64
 Maintainer: PoomSmart
 Installed-Size: 152
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
 Conflicts: com.jakeashacks.realcc
-Filename: ./debs/com.ps.cconandofff_1.1.0_iphoneos-arm64.deb
+Filename: ./debs/com.ps.cconff_1.1.0_iphoneos-arm64.deb
 Size: 5500
 MD5sum: bafd37508e244fdf0497417fadda5174
 SHA1: dab5b797cb092a841bd8797332afbef39cfb8806
 SHA256: 2a51ad59f14cdbbc7eaa8162db41b0bf222d235062c1ee519706b6fd534d84b9
 Section: Tweaks
 Description: Toggle Wi-Fi and Bluetooth On/Off from Control Center (iOS 11+).
-Author: PoomSmart
-Name: CC On & Offf
+Name: CC OnFF
 
 Package: com.haoict.lockscreenwithoutbutton
 Version: 0.0.1
@@ -44,22 +43,6 @@ Architecture: iphoneos-arm
 Depends: mobilesubstrate, preferenceloader
 Installed-Size: 512
 Description: Block annoying Callers!
-
-Package: com.gamegod.igg
-Version: 0.3.5
-Architecture: iphoneos-arm
-Maintainer: iGameGod
-Installed-Size: 169960
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.gamegod.igg_0.3.5_iphoneos-arm.deb
-Size: 34667012
-MD5sum: 7eaeec5dbd1d9f396cacd5ba96b5ac13
-SHA1: ba1ffb2784c5abcb49f01b5ec4af0d6fd45c5da3
-SHA256: 7120b1016323d57c7f72a1277ea73361c6cf6504d6cd173d81cddc96d358e004
-Section: Utilities
-Description: Be the god of your games!
-Author: iGameGod
-Name: iGameGod
 
 Package: com.tweakios.easydialer14
 Version: 14.3.0-10
