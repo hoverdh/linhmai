@@ -124,21 +124,21 @@ SHA256: 77647d80034931f65ca51346e632715ada60f321331c20737746080829060fb4
 Filename: ./debs/com.gilshahar7.exacttime_2.0.1_iphoneos-arm.deb
 
 Package: com.ginsu.kbpro
-Version: 2.1.1
 Architecture: iphoneos-arm
-Maintainer: Ginsu <njl02@outlook.com>
-Depends: firmware (>=14.0), dev.theos.orion14, com.ginsu.libgscommon, ws.hbang.alderis (>= 1.1)
-Filename: ./debs/com.ginsu.kbpro.deb
-Size: 211034
-MD5sum: 7b097d57d62334fc74f29f01465a74a0
-SHA1: f2c1700c676d5c8d1027fb3e4d6bf9e973569f68
-SHA256: 8b5a0cfa8d9cf03532480308d1e47356dc91ae533160541010124a2ae04c4bce
+Version: 2.1.1
 Section: Tweaks
-Homepage: https://ginsu.dev
-Description: Select, copy, paste.
-Tag: role::enduser
-Author: Ginsu <njl02@outlook.com>
+Maintainer: Ginsu
+Installed-Size: 980
+Depends: dev.theos.orion14, firmware (>= 14.0), com.ginsu.libgscommon, ws.hbang.alderis (>= 1.1), preferenceloader
+Filename: ./debs/com.ginsu.kbpro_2.1.1_iphoneos-arm.deb
+Size: 106736
+MD5sum: 7b77ccaf511e3b264b3679ba10c7851a
+SHA1: 56691a637699ec29f17d32e65aaff9b9eb29b307
+SHA256: 3ce5878b6c058e0786cb34c64cdfc5b6cd7da127882c1387adf7c8c62b689af7
+SHA512: a0eb2c8bef83b8040289e93c2e61e86cb486aacda83eb0f65142878c0c40a17f220e8e3f44ceee1bde88ed9c00882003eaa0288e2fefd6d6708507893f7958ba
+Description: Select, copy & paste shortcuts on the keyboard.
 Name: KBPro
+Author: Ginsu
 
 Package: com.imkpatil.letmeknow
 Version: 1.4.2
