@@ -1,3 +1,22 @@
+Package: net.limneos.audiorecorderxs
+Version: 5.0-2
+Architecture: iphoneos-arm
+Maintainer: Elias Limneos <limneoselias@gmail.com>
+Installed-Size: 5960
+Depends: mobilesubstrate, preferenceloader, net.limneos.simpleactivationactions, firmware(>=12.0)
+Conflicts: net.limneos.callrecorder, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
+Replaces: net.limneos.audiorecorder,net.limneos.audiorecorderx
+Filename: ./debs/net.limneos.audiorecorderxs_5.0-2_iphoneos-arm.deb
+Size: 5887502
+MD5sum: 4fc0989606ebf656bba98a374c371764
+SHA1: 4768c22ee070a9f993eac11ffcb6fb6776a2ad5b
+SHA256: 198dc47acc681b90944fc0e9a0140e105cd5b34ff9a7ae806557addfda926b27
+Section: Tweaks
+Description: Most Advanced iOS Call Recorder Ever!
+Author: Elias Limneos <limneoselias@gmail.com>
+Mainlibmd5: 2bd89895e747af47790b0eb2f6bac296
+Name: AudioRecorder XS (iOS 12 to 16)
+
 Package: com.ginsu.kbpro
 Architecture: iphoneos-arm
 Version: 2.1.1
