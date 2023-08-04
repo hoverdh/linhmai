@@ -1,4 +1,21 @@
 
+Package: com.miro.yellowpages2
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 736
+Depends: firmware (>=14.0), mobilesubstrate, preferenceloader, com.miro.libmiroshared (>=1.0.1), com.miro.libphonenumber, com.opa334.libsandy
+Conflicts: com.iarrays.whoozit, ru.rejail.whoozit, com.miro.yellowpages
+Filename: ./debs/com.miro.yellowpages2_1.0.1_iphoneos-arm.deb
+Size: 225926
+MD5sum: cbdd0dadcfeca5c25f664e528c0ffa40
+SHA1: 8ff8924ab598c96365eb391e5425dddf26a6c658
+SHA256: 35f964f710094f4b4f6820a587a731e4e389937b70b9e90efb40d58ef47e6bc1
+Section: Tweaks
+Description: Say Goodbye to Unknown Callers
+Author: MiRO <tweaks_support@miro92.com>
+Name: YellowPages 2
+
 Package: net.limneos.simpleactivationactions
 Version: 0.1-1
 Architecture: iphoneos-arm
