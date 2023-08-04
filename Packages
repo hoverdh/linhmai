@@ -1,4 +1,21 @@
 
+
+Package: com.opa334.libsandy
+Version: 1.1.1
+Architecture: iphoneos-arm64
+Maintainer: opa334
+Installed-Size: 336
+Conflicts: ws.hbang.stopcrashingpls (<= 1.0.2)
+Filename: ./debs/com.opa334.libsandy_1.1.1_iphoneos-arm64.deb
+Size: 11886
+MD5sum: 1f18ba484bd49acc6be764094233b1b2
+SHA1: 9aa2b0fe5b47b38c2739ed7139a3a72a630c4786
+SHA256: fb99557531052d2d296b13c29e79196f0ebf34d1669569bdc6b9e16af8aeeae3
+Section: System
+Description: Securely extend the sandbox of system processes and user applications
+Author: opa334
+Name: libSandy
+
 Package: com.miro.yellowpages2
 Version: 1.0.1
 Architecture: iphoneos-arm
@@ -15,6 +32,38 @@ Section: Tweaks
 Description: Say Goodbye to Unknown Callers
 Author: MiRO <tweaks_support@miro92.com>
 Name: YellowPages 2
+
+Package: com.miro.libmiroshared
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 4932
+Depends: firmware (>=14.0)
+Filename: ./debs/com.miro.libmiroshared_1.0.1_iphoneos-arm64.deb
+Size: 1018790
+MD5sum: 12eb21c83389590568516833fc5ed48b
+SHA1: 18c2242bfacb42f9918293f7845b5281fef64f4f
+SHA256: 75428cb5f3294f67b005495f57bb64f4de5667169d0de3d89cd19b7e1c6313f5
+Section: Development
+Description: Shared library for my tweaks.
+Author: MiRO <tweaks_support@miro92.com>
+Name: libMiROShared
+
+Package: com.miro.libphonenumber
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 604
+Depends: firmware (>=14.0)
+Filename: ./debs/com.miro.libphonenumber_1.1_iphoneos-arm.deb
+Size: 138990
+MD5sum: cc7789f30c6d29137c56ccd93eda4eaf
+SHA1: eec776f2dc6f1e0a41b8cea81fe33400adb9d62d
+SHA256: 2676ec8b2e32f21526ea714cc9c29f2b5ba81a2baeaf09980d3abef8fc5440ac
+Section: Development
+Description: Google's phone number handling library.
+Author: MiRO <tweaks_support@miro92.com>
+Name: libPhoneNumber
 
 Package: net.limneos.simpleactivationactions
 Version: 0.1-1
