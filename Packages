@@ -16,6 +16,24 @@ Description: Simple Activation Actions
 Author: Elias Limneos <limneoselias@gmail.com>
 Name: SimpleActivationActions
 
+Package: net.limneos.dynamicpeninsula
+Version: 0.6-80
+Architecture: iphoneos-arm
+Maintainer: Elias Limneos <limneoselias@gmail.com>
+Installed-Size: 1668
+Depends: mobilesubstrate, preferenceloader, firmware(>=12.0)
+Filename: ./net.limneos.dynamicpeninsula_0.6-80_iphoneos-arm.deb
+Size: 345852
+MD5sum: 475af133f4900c2ce533de605e350300
+SHA1: a2f9df4c008cc4570cce1723e47c828736229c4d
+SHA256: 7d489ec33231df45f4a15ce2d452aa316ef2d4403153911fdfdf91ad91fdc0d6
+Section: Tweaks
+Description: Dynamic Island on your notch
+Author: Elias Limneos <limneoselias@gmail.com>
+Depiction: http://www.limneos.net/cydia/depiction.php?package=net.limneos.dynamicpeninsula
+Mainlibmd5: 2c6b794b51a7e5fcced0329b7dfb7150
+Name: DynamicPeninsula
+
 Package: net.limneos.audiorecorderxs
 Version: 5.0-2
 Architecture: iphoneos-arm
