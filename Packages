@@ -16,23 +16,6 @@ Description: Simple Activation Actions
 Author: Elias Limneos <limneoselias@gmail.com>
 Name: SimpleActivationActions
 
-Package: net.limneos.glow-rootless
-Version: 0.5-11
-Architecture: iphoneos-arm64
-Maintainer: Elias Limneos <limneoselias@gmail.com>
-Installed-Size: 988
-Depends: mobilesubstrate, preferenceloader, firmware ( >= 12)
-Filename: ./debs/net.limneos.glow-rootless_0.5-11_iphoneos-arm64.deb
-Size: 231676
-MD5sum: 287d37f799bb52846870649d50c3b1a7
-SHA1: 1fef6b9e4b0a2706753155938fa5e25757070f68
-SHA256: 6b9c206b8a7990a3f30cb36329f5d43029044aa3cabef9b9e92be2a1889100c5
-Section: Tweaks
-Description: Let your lockscreen glow!
-Author: Elias Limneos <limneoselias@gmail.com>
-Mainlibmd5: aceebb028badab927c88b011ff1ba9eb
-Name: Glow
-
 Package: net.limneos.dynamicpeninsula
 Version: 0.6-80
 Architecture: iphoneos-arm
